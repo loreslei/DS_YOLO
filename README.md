@@ -2,9 +2,7 @@
 
 ![demo](demo.jpeg)
 
-<video controls src="demo.mp4" title="Title"></video>
-
-[link do vídeo](https://drive.google.com/file/d/1PQLkNz7EBLDyGSVRw4wjseG3GbaHs70u/view)
+**[link do vídeo](https://drive.google.com/file/d/1PQLkNz7EBLDyGSVRw4wjseG3GbaHs70u/view)**
 
 ## Descrição
 
